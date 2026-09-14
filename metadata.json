@@ -1,0 +1,6 @@
+{
+  "name": "Khmer Drama Translator",
+  "description": "Translate Chinese drama videos into Khmer with AI speech-to-text, subtitle timing editor, Khmer voice dubbing, and MP4 export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,8 @@
+node_modules
+.git
+.gitignore
+dist
+*.apk
+*.aab
+.env
+.DS_Store
